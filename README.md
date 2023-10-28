@@ -53,8 +53,14 @@ python3 search.py
 And now search for anything in termux and Linux
 
 search.py is for random search
+
+
 and 
+
+
 Tool-url.py is recommended for GitHub search it gives 5 URLs to you and you can copy it. and then directly use.
+
+
 git clone <url>
 
 For example,
