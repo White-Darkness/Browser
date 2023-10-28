@@ -65,8 +65,11 @@ git clone <url>
 
 For example,
 
-Search >> GitHub Browser by White-Darkness 
+Search >> GitHub sqlmap
 
 Then you get
 
-result >> https://github.com/White-Darkness/Browser
+result >>
+
+
+
