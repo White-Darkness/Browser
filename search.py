@@ -1,4 +1,4 @@
-from Googlesearch import search
+from googlesearch import search
 data = input("Search here : - ")
 
 for i in search(data, 25, advanced=True):
