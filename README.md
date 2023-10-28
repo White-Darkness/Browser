@@ -52,7 +52,7 @@ python3 search.py
 
 And now search for anything in termux and Linux
 
-search.py is for random search
+Search.py is for random search
 
 
 and 
@@ -71,5 +71,16 @@ Then you get
 
 result >>
 
+https://github.com/sqlmapproject/sqlmap
 
 
+https://github.com/topics/sqlmap
+
+
+https://github.com/sqlmapproject/sqlmap/blob/master/README.md
+
+
+https://github.com/sqlmapproject/sqlmap/blob/master/sqlmap.py
+
+
+https://github.com/sqlmapproject/sqlmap/wiki/Usage
