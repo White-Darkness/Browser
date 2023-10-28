@@ -2,6 +2,4 @@ apt update && apt upgrade -y
 
 pkg install python3 -y
 
-pkg install pip -y
-
 pip install googlesearch-python
