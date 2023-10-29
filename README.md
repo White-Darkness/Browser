@@ -84,3 +84,8 @@ https://github.com/sqlmapproject/sqlmap/blob/master/sqlmap.py
 
 
 https://github.com/sqlmapproject/sqlmap/wiki/Usage
+
+
+But make sure you are connected with the internet.
+
+Instagram >> 
