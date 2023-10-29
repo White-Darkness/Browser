@@ -88,4 +88,4 @@ https://github.com/sqlmapproject/sqlmap/wiki/Usage
 
 But make sure you are connected with the internet.
 
-Instagram >> 
+Instagram >> cyber_d_hkr
